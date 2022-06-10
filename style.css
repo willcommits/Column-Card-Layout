@@ -1,0 +1,78 @@
+body{
+    Font-size: 15px;
+}
+.main{
+    font-family: Lexend Deca;
+    font-weight: 400px;
+    display: flex;
+    flex-direction: row;
+    max-width: 50%;
+    max-height: 100vh;
+    margin: auto;
+    margin-top: 120px;
+    text-align: start;
+    
+}
+.sedans{
+    height: 50vh;
+    border-radius: 7px 0 0 7px;
+    background-color:hsl(31, 77%, 52%) ;
+    padding: 20px 20px;
+
+}
+.SUVs{
+    background-color: hsl(184, 100%, 22%);
+    padding: 20px 20px;
+
+}
+.Luxury{
+    background-color: hsl(179, 100%, 13%);
+    padding: 20px 20px;
+    border-radius: 0 7px 7px 0;
+
+}
+.title{
+    font-family: 'Big Shoulders Display';
+    font-weight: 700px;
+    text-transform: uppercase;
+    color:hsl(0, 0%, 95%);
+    
+}
+.maintext{
+    letter-spacing: 0.5px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+main1{
+    letter-spacing: 0.5px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.btn1{
+    margin-top: 75px;
+    margin-left:20px;
+    border-radius: 115px;
+    padding: 7px 14px;
+    background-color:hsl(31, 77%, 52%) ;
+    color:hsl(0, 0%, 95%);
+    border:2px solid hsl(0, 0%, 95%);
+}
+.btn3{
+    margin-top: 75px;
+    margin-left:20px;
+    border-radius: 115px;
+    padding: 7px 14px;
+    background-color: hsl(179, 100%, 13%);
+    color:hsl(0, 0%, 95%);
+    border:2px solid hsl(0, 0%, 95%);
+}
+.btn2{
+    margin-top: 75px;
+    margin-left:20px;
+    border-radius: 115px;
+    padding: 7px 14px;
+    background-color: hsl(184, 100%, 22%);
+    color:hsl(0, 0%, 95%);
+    border:2px solid hsl(0, 0%, 95%);
+}
+.icon{
+    height: 25px;
+}
